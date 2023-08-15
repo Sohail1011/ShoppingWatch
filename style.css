@@ -7,12 +7,15 @@
 
 nav {
     background-color: cadetblue;
+    border-radius: 12px;
+    box-shadow: 10px 7px 17px grey;
 }
 
 ul {
     display: flex;
     padding: 1rem;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 li {
